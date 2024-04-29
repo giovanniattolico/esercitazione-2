@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime&family=Merriweather&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+
+.merriweather-regular-italic {
+  font-family: "Merriweather", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+
+.button:hover,
+.button:link,
+.button:active,
+.button:visited{
+  color: white;
+  text-decoration: none;
+  display: block;
+  background: #240202;
+  font-size: 35px;
+  padding: 14px 33px;
+  line-height: 50px;
+  text-align: left;
+  margin-bottom: 30px;
+  margin-top: 15px;
+}
+
+
+
+.hero{
+  padding-top: 130px;
+  padding-bottom: 120px;
+}
+
+.hero.variant-one{
+  background-color: #CEFBFF;
+}
+
+.a{
+    color: #707070;
+    font-size: 90px;
+    font-family: "Merriweather", serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-top: 70px;
+}
+
+.b{
+    color: #707070;
+    font-size: 35px;
+    font-family: "Courier Prime", monospace;
+    font-style: normal;
+    text-align: left;
+    margin-top: 20px;
+}
+
+
+.blue{
+    background-color: #CEFBFF;
+}
+
+.lis{
+    list-style: none;
+}
+
+.o{
+    font-size: 70px;
+    color: #707070;
+    margin-top: 60px;
+}
+
+.g{
+    text-align: left;
+    color: #707070;
+    font-size: 22px;
+}
+
+.f{
+    color:red;
+    text-align: left;
+
+}
+
+.pink{
+    background-color: #ECCEFF;
+    margin-top: 60px;
+}
+
+.k{
+    margin-top: 25px;
+    margin-bottom: 60px;
+}
+
+.imag{
+    padding-left: 12px;
+    padding-bottom: 2px;
+}
